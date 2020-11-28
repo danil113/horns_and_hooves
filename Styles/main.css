@@ -3,14 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{background-color: #e7e7e7;}
+body{background-color: #f0b0d7;}
 h1{
-    color: rgb(204, 15, 204);
+    color: rgb(255, 0, 0);
     font-size: 25px;
     font-weight: medium;
 }
 h2{
-    color: rgb(0, 255, 85);
+    color: rgb(243, 109, 109);
     font-size: 20px;
     font-weight: 500;
 }
@@ -38,7 +38,7 @@ table td.content table td:nth-child(4) img{
     width: 160px;
     box-sizing: border-box;
     object-fit: contain;
-    background-color: rgb(52, 10, 167);
+    background-color: rgb(10, 167, 57);
 }
 
 .about ul>li:nth-child(1){font-variant: small-caps;}
@@ -70,7 +70,7 @@ a{
     'Lucida Grande',
     'Lucida Sans Unicode',
     Geneva, Verdana, sans-serif;
-    color: rgb(14, 247, 208);
+    color: rgb(0, 0, 255);
     text-decoration: underline;
 }
 a:hover{
